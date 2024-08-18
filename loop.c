@@ -1,7 +1,6 @@
 #include <cs50.h>
 #include <stdio.h>
 
-#include <stdio.h>
 
 int main() {
     // For loop to print numbers from 1 to 5
@@ -16,6 +15,6 @@ int main() {
         printf("%d\n", i);
         i++; // Increment the loop variable
     }
-    
+
     return 0;
 }
