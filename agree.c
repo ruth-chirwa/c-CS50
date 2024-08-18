@@ -5,11 +5,11 @@ int main(void)
 {
     char c = get_char("Do you like Ice cream? ");
 
-    if (c == 'y')
+    if (c == 'y' || c == 'Y')
     {
         printf("Yes I do!\n");
     }
-    else if (c == 'n')
+    else if (c == 'n' || c == 'N')
     {
         printf("No I don't\n");
     }
