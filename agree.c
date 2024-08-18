@@ -9,7 +9,7 @@ int main(void)
     {
         printf("Yes I do!\n");
     }
-    else (c == 'n')
+    else if (c == 'n')
     {
         printf("No I don't\n");
     }
