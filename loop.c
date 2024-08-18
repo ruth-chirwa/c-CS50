@@ -3,7 +3,7 @@
 
 int main(void)
 {
-   int x = 6
+   int x = get_int 6
    int y = 7
 
    if (x < y)
