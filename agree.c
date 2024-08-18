@@ -13,10 +13,5 @@ int main(void)
     {
         printf("No, I don't.\n");
     }
-    else
-    {
-        printf("Invalid input. Please enter 'y', 'Y', 'n', or 'N'.\n");
-    }
-
-    return 0;
+    
 }
