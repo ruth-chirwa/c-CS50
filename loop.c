@@ -3,6 +3,11 @@
 
 int main(void)
 {
-   string answer = get_string("What is your name? ");
-   printf(answer);
+   int x = 6
+   int y = 7
+
+   if (x < y)
+   {
+    printf("X is less than Y\n");
+   }
 }
