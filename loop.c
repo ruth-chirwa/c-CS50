@@ -9,5 +9,13 @@ int main() {
         printf("%d\n", i);
     }
 
+ int i = 1; // Initialize the loop variable
+
+    // While loop to print numbers from 1 to 5
+    while (i <= 5) {
+        printf("%d\n", i);
+        i++; // Increment the loop variable
+    }
+    
     return 0;
 }
