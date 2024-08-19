@@ -51,7 +51,7 @@ To get started with the code in this repository:
 
 3. **Compile and Run**
 Use make to compile the C files. For example:
-
+    ```bash
     make program_name
     ./program_name
 
