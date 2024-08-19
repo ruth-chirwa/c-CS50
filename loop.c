@@ -4,5 +4,8 @@
 
 int main(void)
 {
-    printf("meow\n");
+    while(true)
+    {
+        printf("Meow\n");
+    }
 }
