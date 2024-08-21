@@ -13,6 +13,7 @@ int main(void)
     printf("%i\n", z);
 }
 
+//Scope- context in which variables exist
 int add(void)
 {
     return x + y;
