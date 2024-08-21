@@ -4,4 +4,9 @@
 int main(void)
 {
     printf("This is my calculator\n");
+
+    int x = get_int("x: ");
+    int y = get_int("y: ");
+
+    printf("%i\n", x + y);
 }
