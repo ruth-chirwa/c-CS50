@@ -14,7 +14,7 @@ int main(void)
 }
 
 //Scope- context in which variables exist
-int add(void)
+int add(int a, int b)
 {
-    return x + y;
+    return a + b;
 }
